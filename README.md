@@ -1,2 +1,2 @@
-# practica1_fdp
-Practica 1 de Fundamentos de programación
+# Fundamentos de programación
+Trabajos, materiales y actividades
